@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 
 products = ['Laptop', 'Mouse', 'Keyboard', 'Monitor']
 
-sales = [10, 30, 20, 1]
+sales = [10, 30, 20, 15]
 
 plt.bar(products, sales)
 
